@@ -3,6 +3,7 @@
 ## Intro
 
 Selected the computer vision models for studying and implementing papers. 
+
 Those models will be implemented by Google colab or local by scaling down the model performance and data size.
 
 ## Model list
